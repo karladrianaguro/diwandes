@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a {
+    color: #005677;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:005677; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+@font-face {
+    font-family: '29lt_bukrabold';
+    src: url('29ltbukrabold-webfont.woff2') format('woff2'),
+         url('29ltbukrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
