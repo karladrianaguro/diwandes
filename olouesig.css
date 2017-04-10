@@ -21,3 +21,7 @@ a:hover
     font-style: normal;
 
 }
+
+a { 
+ font-family:Gotham,Verdana,Arial; 
+}
