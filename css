@@ -23,5 +23,14 @@ a:hover
 }
 
 a { 
- font-family:Gotham,Verdana,Arial; 
+ font-family:29lt_bukrabold, 29lt_bukralight, Gotham,Verdana,Arial; 
+}
+
+@font-face {
+    font-family: '29lt_bukralight';
+    src: url('29ltbukralight-webfont.woff2') format('woff2'),
+         url('29ltbukralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
