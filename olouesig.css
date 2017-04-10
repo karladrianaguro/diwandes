@@ -12,3 +12,12 @@ a:hover
      text-decoration:none; 
      cursor:pointer;  
 }
+
+@font-face {
+    font-family: '29lt_bukrabold';
+    src: url('https://www.dropbox.com/s/mx3amut6c5evtjw/29ltbukrabold-webfont.woff2') format('woff2'),
+         url('https://www.dropbox.com/s/hyrh7j8p9isgxm6/29ltbukrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+
